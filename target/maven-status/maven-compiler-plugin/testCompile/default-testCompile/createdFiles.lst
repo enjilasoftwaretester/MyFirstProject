@@ -1,0 +1,7 @@
+FirstTestCase\RegistrationPage.class
+FunctionalTestCase\Product.class
+ThirdTestCase\HomePage.class
+FunctionalTestCase\Payment.class
+SecondTestCase\LoginPage.class
+SmokeTest\HomePage.class
+SmokeTest\Login.class
